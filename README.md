@@ -26,3 +26,11 @@ A 3D Game, similar to a general fighter plane game, made in OpenGL
 ### Red cubes are fuel cans, they fill your fuel tank (capacity and current limit shown by red meter)
 ### Green meter is to show the altitude
 ### Pass through rings for points
+
+* Run the game:
+	```console
+	user@linux:~/Fighter-Plane-Game$ mkdir output
+	user@linux:~/Fighter-Plane-Game$ cd output
+	user@linux:~/Fighter-Plane-Game/output$ cmake ..
+	user@linux:~/Fighter-Plane-Game/output$ make
+	user@linux:~/Fighter-Plane-Game/output$ ./plane_game
