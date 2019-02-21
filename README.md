@@ -20,12 +20,13 @@ A 3D Game, similar to a general fighter plane game, made in OpenGL
 - Left Mouse Click to fire missile
 - Right Mouse Click to drop bombs
 
-#### As a bonus, a special enemy is also implemented, the rotating cylinder which you can see for yourself. It will be destroyed when you hit it close to the rotating point
-### Checkpoints is pointed by the arrow, which has a cannon (cylinder going up and down) as the guardian. Destroy all cylinders to win the game. Destroy Parachutes for some points
-### Avoid proximity to Volcano, else the game will end
-### Red cubes are fuel cans, they fill your fuel tank (capacity and current limit shown by red meter)
-### Green meter is to show the altitude
-### Pass through rings for points
+***Objectives in Game***
+- Checkpoints is pointed by the arrow, which has a cannon (cylinder going up and down) as the guardian. Destroy all cylinders to conquer each checkpoint and win the game. Destroy Parachutes for some points
+- Avoid proximity to Volcano, else the game will end
+- Red cubes are fuel cans, they fill your fuel tank (capacity and current limit shown by red meter)
+- Green meter is to show the altitude
+- Pass through rings for points
+- As a bonus, a special enemy is also implemented, the rotating cylinder which you can see for yourself. It will be destroyed when you hit it close to the rotating point
 
 * Run the game:
 	```console
